@@ -1,0 +1,10 @@
+2020-01-12 11:03:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Column "PRECIO" not found [42122-192]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.jdbc.JdbcResultSet.getColumnIndex(JdbcResultSet.java:3128)
+	at org.h2.jdbc.JdbcResultSet.get(JdbcResultSet.java:3216)
+	at org.h2.jdbc.JdbcResultSet.getFloat(JdbcResultSet.java:704)
+	at ejercicio2.ejercicios1234567.Libros.verCatalogo(Libros.java:492)
+	at ejercicio2.ejercicios1234567.Prueba.main(Prueba.java:39)

@@ -1,0 +1,3 @@
+2020-01-12 11:01:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "LIBROS" not found; SQL statement:
+select * from LIBROS ORDER BY TITULO ASC [42102-192]

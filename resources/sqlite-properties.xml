@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+  <entry key="dbms">sqlite</entry>
+  <entry key="driver">corg.sqlite.JDBC</entry>
+  <entry key="database_name">/bd/mercado.db</entry>
+  <entry key="user_name"></entry>
+  <entry key="password"></entry>
+  <entry key="server_name">db</entry>
+  <entry key="port_number">0</entry>
+
+
+</properties>
